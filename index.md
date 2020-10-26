@@ -43,23 +43,11 @@ ip地址分类需要复习下：一般情况下，我们将IP地址分为A/B/C�
   * ip地址 每次上网都不一样。由dns随机自动分配。
   * mac地址唯一。
   * ![image-w50](https://github.com/hjvlitstone/hjv.github.io/blob/gh-pages/images/BASIC%E8%AE%A4%E8%AF%81%E6%AD%A5%E9%AA%A4.jpg)
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
