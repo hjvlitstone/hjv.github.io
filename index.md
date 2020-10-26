@@ -42,7 +42,7 @@ ip地址分类需要复习下：一般情况下，我们将IP地址分为A/B/C�
 * 其他知识：
   * ip地址 每次上网都不一样。由dns随机自动分配。
   * mac地址唯一。
-  * <img src="https://github.com/hjvlitstone/hjv.github.io/edit/gh-pages/images/BASIC认证步骤.jpg" alt="image-20201012151613541" style="zoom:30%;" />
+  * ![image](https://github.com/hjvlitstone/hjv.github.io/edit/gh-pages/images/BASIC认证步骤.jpg)
 ```markdown
 Syntax highlighted code block
 
