@@ -11,6 +11,6 @@ WebSocket，即Web浏览器与Web服务器之间全双工通信标准。一旦We
 
 响应返回101 Switching Protocols，成功握手确立WebSocket连接后，通信时不再使用HTTP的数据帧，而采用WebSocket独立的数据帧。![WebSocket通信流程](https://github.com/hjvlitstone/hjv.github.io/blob/gh-pages/images/WebSocket%E9%80%9A%E4%BF%A1%E6%B5%81%E7%A8%8B.jpg)
 
-JS可调用http://www.w3.org/TR/websockets/内提供的WebSocket程序接口，以实现WebSocket协议下全双工通信。以下为每50ms发送一次数据的实例：
+JS可调用 http://www.w3.org/TR/websockets/ 内提供的WebSocket程序接口，以实现WebSocket协议下全双工通信。以下为每50ms发送一次数据的实例：
 
 ![WebSocket通信实例](https://github.com/hjvlitstone/hjv.github.io/blob/gh-pages/images/WebSocket%E9%80%9A%E4%BF%A1%E5%AE%9E%E4%BE%8B.jpg)
