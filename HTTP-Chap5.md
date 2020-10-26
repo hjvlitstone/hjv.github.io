@@ -80,7 +80,7 @@ Connection的值是Upgrate，表示Upgrade字段仅本次传输有效，不再�
 * Host：必须被包含在请求中的首部字段，告知服务器请求的资源所处的互联网主机名和端口号。如一个服务器只有一个IP地址，上面运行着多个域名的虚拟主机，就需要HOST字段帮助区分，不传具体值也行
 * If-Match：形如If-xxx这种形式的请求首部字段，称为条件请求，服务器只有判断该条件为真时才会执行请求。If-Match告知服务器匹配资源所用的实体标记值(ETag),和服务器的这个值一致时，服务器才会接受请求，它的值也可以是*，服务器就会忽略判断，资源存在就处理。
 * If-Modified-Since：如果在这个字段指定的日期时间后资源发生了更新，服务器会接受请求。用于确认客户端或代理拥有的本地资源的有效性。
-* If-None-Match：和If-Match相反，在GET或HEAD方法中使用这个字段可以获取最新的资源。![http首部IfNoneMatch](E:\hepfiles\files\个人文件\http\img-http首部\http首部IfNoneMatch.jpg)
+* If-None-Match：和If-Match相反，在GET或HEAD方法中使用这个字段可以获取最新的资源。![http首部IfNoneMatch](https://github.com/hjvlitstone/hjv.github.io/blob/gh-pages/images/http%E9%A6%96%E9%83%A8IfNoneMatch.jpg)
 
 * If-Range：若此字段的值和请求资源的ETag值或时间一致时，则继续读取头部的Range字段，作为范围请求处理，不一致返回全部资源。
 * If-Unmodified-Since：告知服务器指定的请求资源只有在字段值内指定的日期时间之后，未发生更新的情况下，才能处理请求。
