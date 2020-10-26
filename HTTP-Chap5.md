@@ -41,7 +41,7 @@ HTTP首部字段将定义成缓存代理和非缓存代理的行为，分成2种
 
 Connection的值是Upgrate，表示Upgrade字段仅本次传输有效，不再转发这个字段
 
-![http首部Connection](https://github.com/hjvlitstone/hjv.github.io/blob/gh-pages/images/http%E9%A6%96%E9%83%A8Connection.jpg)
+![images](https://github.com/hjvlitstone/hjv.github.io/blob/gh-pages/images/http%E9%A6%96%E9%83%A8Connection.jpg)
 
 * Via:为了追踪客户端和服务器之间请求和响应报文的传输路径，经常会和TRACE方法一起使用，比如代理服务器接收到由TRACE方法发送过来的请求(其中Max-Forwards:0)时，代理服务器就不能再转发该请求了，他会将自己的信息附加到Via首部后，返回该请求的响应。
 * Warning
