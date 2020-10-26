@@ -37,8 +37,7 @@ https通信流程：
 
 ![https通信流程](https://github.com/hjvlitstone/hjv.github.io/blob/gh-pages/images/https%E9%80%9A%E4%BF%A1%E6%B5%81%E7%A8%8B.jpg)
 
-<img src="E:\hepfiles\files\个人文件\http\img-https\https通信流程1.jpg" alt="https通信流程1" style="zoom:50%;" />
-![https通信流程1](https://github.com/hjvlitstone/hjv.github.io/blob/gh-pages/images/https%E9%80%9A%E4%BF%A1%E6%B5%81%E7%A8%8B1.jpg)
+<img src="https://github.com/hjvlitstone/hjv.github.io/blob/gh-pages/images/https%E9%80%9A%E4%BF%A1%E6%B5%81%E7%A8%8B1.jpg" alt="https通信流程1" style="zoom:50%;" />
 
 <img src="https://github.com/hjvlitstone/hjv.github.io/blob/gh-pages/images/https%E9%80%9A%E4%BF%A1%E6%B5%81%E7%A8%8B%E6%8F%8F%E8%BF%B0.jpg" alt="https通信流程描述" style="zoom:50%;" />
 
