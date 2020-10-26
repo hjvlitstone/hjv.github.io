@@ -1,4 +1,4 @@
-## HTTP-Chap7 确保Web安全的HTTPS
+## HTTP-Chap6 确保Web安全的HTTPS
 在HTTP协议中有可能存在信息窃听或身份伪装等安全问题，使用HTTPS通信机制可以有效地防止这些问题。
 
 ### HTTP的缺点
